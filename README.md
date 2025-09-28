@@ -2,7 +2,6 @@
 
 **Course:** DS 340W Data Science Capstone  
 **Assignment:** Week 2 Research Paper Analysis & Implementation Planning  
-**Date:** September 28, 2025
 
 ## Overview
 
@@ -84,5 +83,6 @@ Week2_Final_Deliverables/
 ## Submission Notes
 
 All deliverables have been prepared according to DS 340W requirements and are ready for instructor review. The presentation slides are optimized for KALTURA recording with clear visuals and professional formatting. The documentation follows academic writing standards with proper citations and technical accuracy.
+
 
 
