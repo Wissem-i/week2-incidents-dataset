@@ -1,6 +1,5 @@
 # DS 340W Week 2 Deliverables - Student Submission
 
-**Student Name:** [Your Name]  
 **Course:** DS 340W Data Science Capstone  
 **Assignment:** Week 2 Research Paper Analysis & Implementation Planning  
 **Date:** September 28, 2025
@@ -24,7 +23,7 @@ This folder contains all required deliverables for Week 2 of DS 340W, focusing o
 - **Week2_Architecture_Documentation.docx** - Complete system architecture with PlantUML diagrams and technical specifications
 
 ### 5. Presentation Materials
-- **DS340W_Week2_FINAL_PERFECT.pptx** - Professional presentation slides for KALTURA recording submission
+- **DS340W_Week2_presentation.pptx** - Professional presentation slides for KALTURA recording submission
 
 ### 6. Presentation Script
 - **Week2_Presentation_Script.docx** - Complete narration script for the video presentation with slide-by-slide guidance
@@ -82,7 +81,7 @@ Building on this analysis, Week 3 will focus on:
 ```
 Week2_Final_Deliverables/
 ├── README.md (this file)
-├── DS340W_Week2_FINAL_PERFECT.pptx
+├── DS340W_Week2_presentation.pptx
 ├── Week2_Research_Analysis.docx
 ├── Week2_Implementation_Plan.docx
 ├── Week2_Dataset_Analysis.docx
@@ -93,11 +92,3 @@ Week2_Final_Deliverables/
 ## Submission Notes
 
 All deliverables have been prepared according to DS 340W requirements and are ready for instructor review. The presentation slides are optimized for KALTURA recording with clear visuals and professional formatting. The documentation follows academic writing standards with proper citations and technical accuracy.
-
-## Contact Information
-
-For questions regarding this submission, please contact me through the course portal or during office hours.
-
----
-
-*This submission represents original analysis and implementation planning based on the Weber et al. ECCV 2020 paper, with all work completed independently according to course academic integrity policies.*
